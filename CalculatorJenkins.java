@@ -2,6 +2,7 @@
 import java.util.*;
 import java.util.Scanner;
 public class CalculatorJenkins {
+	private static int number;
     public static void main(String[] args)
     {
     	
